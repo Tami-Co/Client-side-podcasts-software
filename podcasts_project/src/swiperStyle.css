@@ -1,0 +1,60 @@
+.mySwiper {
+    /* max-width: 1200px; */
+    width: '100%';
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   /*justify-content: left;*/
+    /*align-items: end;*/
+    
+    margin-bottom: '5%';
+    background-color:'#fefaff'
+   /* margin-right: 140px; */
+
+   
+}
+.lecturerSwiper {
+    max-width: 100%;
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+   /* margin-right: 140px; */
+}
+
+.swiper-container {
+   display: flex;
+    justify-content: center;
+    align-items: center;
+    
+} 
+
+.swiper-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*max-width: 100px;*/
+    max-width: 1200px;
+    
+} 
+
+.swiper-slide{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative
+    ;
+}
+
+/* .swiper{
+    margin-right: 0%;
+} */
+.swiper-button-next{
+    margin-left: '8%';
+    color: #000000;
+
+}
+.swiper-button-prev{
+    color: #000000;
+
+}

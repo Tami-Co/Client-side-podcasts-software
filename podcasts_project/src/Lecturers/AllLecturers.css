@@ -1,0 +1,10 @@
+.divCategory {
+    margin-right: 4.7%;
+    margin-top: 3%;
+}
+
+.mainDiv {
+    display: flex;
+    flex-wrap: wrap;
+
+}

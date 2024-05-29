@@ -1,0 +1,11 @@
+.mainLecturer{
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10%;
+}    
+.imgCategory{
+    width: 100%;
+    height: 100%;
+}

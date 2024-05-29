@@ -1,0 +1,25 @@
+.link {
+    text-decoration: none;
+    padding-left: 5%;
+
+}
+
+.loginLinks {
+    margin-right: 10 px;
+}
+
+.allNavBar {
+    /* background-color: #2b2565; */
+}
+
+/* .css-19r6kue-MuiContainer-root {
+    padding-left: 0%;
+    padding-right: 0%;
+} */
+/* 
+@media (min-width: 600px) {
+    .css-dqe57j-MuiContainer-root {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+} */
